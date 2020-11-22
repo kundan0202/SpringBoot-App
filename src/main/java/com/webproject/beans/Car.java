@@ -10,6 +10,9 @@ public class Car {
             System.out.println("Buy Mercedes");
             
             System.out.println("As part of story HIS-134,Doing fix and Enhancement");
+            
+            //stash adding
+            System.out.println("Test stash list commands");
 	}
 
 }
