@@ -11,9 +11,8 @@ public class SpringBootAppApplication {
 		ConfigurableApplicationContext run=SpringApplication.run(SpringBootAppApplication.class, args);
 		run.close();
 		
-		
-		/*
-		 * HIS-122 Story chnages
-		 */	}
+		//suman code chnages
+		int i=10;
+	}
 
 }
