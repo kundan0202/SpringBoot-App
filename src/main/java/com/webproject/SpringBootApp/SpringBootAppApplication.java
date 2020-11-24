@@ -7,6 +7,9 @@ import org.springframework.context.ConfigurableApplicationContext;
 @SpringBootApplication
 public class SpringBootAppApplication {
 
+	//Dilip chnages
+	private static final String REST_URL="https://www.eqifax.com"
+	
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run=SpringApplication.run(SpringBootAppApplication.class, args);
 		run.close();
